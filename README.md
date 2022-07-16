@@ -1,2 +1,2 @@
 # rust
-Programs on Rust
+Programs in Rust
